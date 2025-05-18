@@ -8,7 +8,7 @@ Movie Recommender System
 
 # 🎬 TMDB 5000 Movies Dataset
 
-This is the dataset used for movie data analysis, containing information on 5000 films. It helps in building AI-based systems for recommendations, popularity prediction, and trend analysis using real-world factors like budget, genres, ratings, and release dates.
+- This is the dataset used for movie data analysis, containing metadata for 5000 films and their cast and crew details. It helps in building AI-based systems for recommendations, popularity prediction, and trend analysis using real-world factors like budget, genres, cast, director, ratings, and release dates.
 
 ---
 
