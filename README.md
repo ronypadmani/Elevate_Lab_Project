@@ -66,5 +66,6 @@ Make sure you have [Streamlit](https://streamlit.io/) installed. If not, you can
 
 ```bash
 pip install streamlit
+streamlit run app.py
 
 
