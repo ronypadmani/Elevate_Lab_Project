@@ -60,6 +60,11 @@ This dataset can be used for:
 
 This dataset is publicly available from [Kaggle TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and intended for **educational and research purposes only**.
 
+## How to Run the App
 
+Make sure you have [Streamlit](https://streamlit.io/) installed. If not, you can install it using:
+
+```bash
+pip install streamlit
 
 
