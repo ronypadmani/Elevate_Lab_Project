@@ -68,4 +68,3 @@ Make sure you have [Streamlit](https://streamlit.io/) installed. If not, you can
 pip install streamlit
 streamlit run app.py
 
-
